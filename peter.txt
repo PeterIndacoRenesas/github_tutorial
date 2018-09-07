@@ -1,3 +1,4 @@
 https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 I added this in the dev branch
+I also added this in the dev branch but after the above had been merged into the master
